@@ -1,0 +1,33 @@
+﻿生成启动时间为 2019/5/19 16:43:47。
+     1>项目“E:\01_CODE\C++\C-_ComputerRoomReservationSystem\机房预约管理系统\机房预约管理系统\机房预约管理系统.vcxproj”在节点 2 上(build 个目标)。
+       项目文件包含 ToolsVersion="14.0"。此工具集可能未知或缺失。在这种情况下，通过安装 MSBuild 的正确版本，或许可以解决此问题。否则，该 build 可能已因策略原因而被强制为某个特定 ToolsVersion。将该项目视为其已具有 ToolsVersion="4.0"。有关详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=291333。
+     1>InitializeBuildStatus:
+         正在创建“Debug\机房预约管理系统.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\01_CODE\C++\C-_ComputerRoomReservationSystem\机房预约管理系统\Debug\机房预约管理系统.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\机房预约管理系统.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\01_CODE\C++\C-_ComputerRoomReservationSystem\机房预约管理系统\Debug\机房预约管理系统.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\01_CODE\C++\C-_ComputerRoomReservationSystem\机房预约管理系统\Debug\机房预约管理系统.lib" /MACHINE:X86 "Debug\机房预约管理系统.exe.embed.manifest.res"
+         Debug\Admin.obj
+         Debug\ComputerRoom.obj
+         Debug\main.obj
+         Debug\RoomRecord.obj
+         Debug\Student.obj
+         Debug\Identity.obj
+         Debug\Teacher.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\机房预约管理系统.exe.embed.manifest" /manifest "Debug\机房预约管理系统.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         机房预约管理系统.vcxproj -> E:\01_CODE\C++\C-_ComputerRoomReservationSystem\机房预约管理系统\Debug\机房预约管理系统.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\机房预约管理系统.unsuccessfulbuild”。
+         正在对“Debug\机房预约管理系统.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\01_CODE\C++\C-_ComputerRoomReservationSystem\机房预约管理系统\机房预约管理系统\机房预约管理系统.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:11.64
